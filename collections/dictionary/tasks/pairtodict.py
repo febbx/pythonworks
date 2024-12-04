@@ -1,0 +1,1 @@
+# 6. Given two lists, one with fruits and the other with prices, write a dictionary comprehension to pair them together into a dictionary.
